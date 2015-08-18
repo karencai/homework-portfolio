@@ -1,0 +1,130 @@
+body {
+    padding: 0 5px 0 5px;
+    background-color:peachpuff;
+}
+
+header {
+    right: auto;
+    left: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.about-me-link {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.portfolio-link {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+header span {
+    font-style: italic;
+}
+
+header h1 {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+}
+
+header a {
+    color: black;
+}
+
+section h1 {
+    text-align: left;
+    font-family: Montserrat;
+    font-size: 18px;
+}
+
+.portfolio-icon {
+    float: right;
+    height: 212px;
+    width: 236px;
+    padding: 2px 2px 2px 2px;
+    border: solid 2px black;
+    margin-left: 5px;
+}
+
+hr {
+    margin: 20px 0 20px 0;
+}
+
+section {
+    left: 13px;
+    margin-right: 5px;
+}
+
+section p {
+    text-align: center;
+}
+section p a{
+    font-size: 16px;
+    font-family:  sans-serif;
+    font-weight: bold;
+    color:black;
+
+}
+
+.facebook-link {
+    border-right: solid 1px grey;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.twitter-link {
+    border-right: solid 1px grey;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.instagram-link {
+    border-right: solid 1px grey;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+/*portfolio*/
+main h1{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 26px;
+    margin:30px 0 30px 0 ;
+}
+
+.intro{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.portfolio-title{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+main ul {
+    list-style-type: square;
+}
+
+main ul li{
+    margin-top: 30px;
+}
+main ul li strong {
+    font-size: 18px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+main ul li img {
+    margin-top: 30px ;
+    text-align: center;
+    padding: 2px 2px 2px 2px;
+    border: solid 2px black;
+}
